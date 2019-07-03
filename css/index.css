@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(228, 228, 228);
+    margin-top: 80px;
+}
+tr{
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    padding-bottom: 10px;
+}
+table, hd, h2{
+    margin: 0  auto; 
+}
+table, td{
+    padding: 5px;
+    width: 500px;
+    height: 35px;
+    /* border-collapse: collapse; */
+}
+
+td{
+    text-align: center;
+    /* border: 2px solid rgb(240, 240, 240); */
+  
+}
+input, textarea{
+    width: 50px;
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+}
+.grade{
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn{
+    margin-top: 10px;
+    width: 20px;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(10, 219, 209);
+    color: #fff;
+}
+.btn:hover{
+    background-color: rgb(2, 199, 189);
+}
